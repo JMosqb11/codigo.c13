@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/codigo.c13/static/css/main.e19be6ef.css",
-    "main.js": "/codigo.c13/static/js/main.0f1c0f50.js",
-    "static/media/Cocogoose Pro Thin-trial.ttf": "/codigo.c13/static/media/Cocogoose Pro Thin-trial.6440e32616f290a797e9.ttf",
-    "static/media/Cocogoose Pro-trial.ttf": "/codigo.c13/static/media/Cocogoose Pro-trial.fc4c5187ea318bde306b.ttf",
-    "static/media/CódigoC13.png": "/codigo.c13/static/media/CódigoC13.270141014b4d136a5a9a.png",
-    "static/media/logo.png": "/codigo.c13/static/media/logo.a11c81faf44241c89746.png",
-    "static/media/icons8-logo-de-google.svg": "/codigo.c13/static/media/icons8-logo-de-google.9a7800d06783d80a1c12249a8ca58e9d.svg",
-    "index.html": "/codigo.c13/index.html",
-    "static/media/background-footer (1).svg": "/codigo.c13/static/media/background-footer (1).299b8163021c422357a6.svg",
-    "main.e19be6ef.css.map": "/codigo.c13/static/css/main.e19be6ef.css.map",
-    "main.0f1c0f50.js.map": "/codigo.c13/static/js/main.0f1c0f50.js.map"
+    "main.css": "/pagina-codigoc13%20/static/css/main.156d8a94.css",
+    "main.js": "/pagina-codigoc13%20/static/js/main.6e70eb36.js",
+    "static/media/Cocogoose Pro Thin-trial.ttf": "/pagina-codigoc13%20/static/media/Cocogoose Pro Thin-trial.6440e32616f290a797e9.ttf",
+    "static/media/Cocogoose Pro-trial.ttf": "/pagina-codigoc13%20/static/media/Cocogoose Pro-trial.fc4c5187ea318bde306b.ttf",
+    "static/media/CódigoC13.png": "/pagina-codigoc13%20/static/media/CódigoC13.270141014b4d136a5a9a.png",
+    "static/media/logo.png": "/pagina-codigoc13%20/static/media/logo.a11c81faf44241c89746.png",
+    "static/media/icons8-logo-de-google.svg": "/pagina-codigoc13%20/static/media/icons8-logo-de-google.9a7800d06783d80a1c12249a8ca58e9d.svg",
+    "index.html": "/pagina-codigoc13%20/index.html",
+    "static/media/background-footer (1).svg": "/pagina-codigoc13%20/static/media/background-footer (1).299b8163021c422357a6.svg",
+    "main.156d8a94.css.map": "/pagina-codigoc13%20/static/css/main.156d8a94.css.map",
+    "main.6e70eb36.js.map": "/pagina-codigoc13%20/static/js/main.6e70eb36.js.map"
   },
   "entrypoints": [
-    "static/css/main.e19be6ef.css",
-    "static/js/main.0f1c0f50.js"
+    "static/css/main.156d8a94.css",
+    "static/js/main.6e70eb36.js"
   ]
 }
